@@ -1,7 +1,7 @@
 ### Hi I am Kartik ! 👋
 
-<img src="Green and White Technology LinkedIn Banner (5).png" alt="Banner about Arturs Smirnovs">
-I am a Self-taught Full-stack developer who has been in the IT industry for around the last 3 years now, based at a consultancy company. I have been fortunate to be involved with building some massive IT systems, apps and Software solutions, using a range of technologies like Python, Elastic search,VueJs,DBMS, Salesforce Lightning web components
+<img src="1500x500.jpeg" alt="Banner about Arturs Smirnovs">
+- 🔭 I’m currently working on Incentivate,Invesh2.0
 
 <!--
 **kartikpuri95/kartikpuri95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
